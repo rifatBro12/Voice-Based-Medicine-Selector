@@ -1,0 +1,417 @@
+{
+  "paracetamol": [
+    "Paracetamol 500mg Tablet",
+    "Paracetamol Syrup 125mg/5ml",
+    "Paracetamol Injection 150mg",
+    "Paracetamol Extra 650mg"
+  ],
+  "omeprazole": [
+    "Omeprazole 20mg Capsule",
+    "Omeprazole 40mg Tablet",
+    "Omeprazole Injection 40mg"
+  ],
+  "metformin": [
+    "Metformin 500mg Tablet",
+    "Metformin XR 750mg Tablet",
+    "Metformin Syrup 100mg/5ml"
+  ],
+  "amoxicillin": [
+    "Amoxicillin 250mg Capsule",
+    "Amoxicillin 500mg Capsule",
+    "Amoxicillin Suspension 125mg/5ml"
+  ],
+  "ibuprofen": [
+    "Ibuprofen 200mg Tablet",
+    "Ibuprofen 400mg Tablet",
+    "Ibuprofen Suspension 100mg/5ml"
+  ],
+  "cetirizine": [
+    "Cetirizine 10mg Tablet",
+    "Cetirizine Syrup 5mg/5ml"
+  ],
+  "levodopa": [
+    "Levodopa 250mg Tablet",
+    "Levodopa + Carbidopa 100/25 Tablet"
+  ],
+  "sergel": [
+    "Sergel 20mg Capsule",
+    "Sergel 40mg Capsule"
+  ],
+  "mepran": [
+    "Mepran 20mg Tablet",
+    "Mepran 40mg Tablet"
+  ],
+  "azithromycin": [
+    "Azithromycin 250mg Tablet",
+    "Azithromycin 500mg Tablet",
+    "Azithromycin Suspension 200mg/5ml"
+  ],
+  "amoxicillin-clavulanate": [
+    "Amoxicillin-Clavulanate 375mg Tablet",
+    "Amoxicillin-Clavulanate 625mg Tablet",
+    "Amoxicillin-Clavulanate Suspension 457mg/5ml"
+  ],
+  "cefuroxime": [
+    "Cefuroxime 250mg Tablet",
+    "Cefuroxime 500mg Tablet",
+    "Cefuroxime Suspension 125mg/5ml"
+  ],
+  "cefixime": [
+    "Cefixime 200mg Capsule",
+    "Cefixime 400mg Tablet",
+    "Cefixime Suspension 100mg/5ml"
+  ],
+  "cephalexin": [
+    "Cephalexin 500mg Capsule",
+    "Cephalexin Suspension 250mg/5ml"
+  ],
+  "ciprofloxacin": [
+    "Ciprofloxacin 250mg Tablet",
+    "Ciprofloxacin 500mg Tablet",
+    "Ciprofloxacin Infusion 200mg/100ml"
+  ],
+  "levofloxacin": [
+    "Levofloxacin 500mg Tablet",
+    "Levofloxacin Infusion 500mg/100ml"
+  ],
+  "metronidazole": [
+    "Metronidazole 400mg Tablet",
+    "Metronidazole Suspension 200mg/5ml",
+    "Metronidazole Infusion 500mg/100ml"
+  ],
+  "doxycycline": [
+    "Doxycycline 100mg Capsule",
+    "Doxycycline 100mg Tablet"
+  ],
+  "clindamycin": [
+    "Clindamycin 150mg Capsule",
+    "Clindamycin 300mg Capsule"
+  ],
+  "erythromycin": [
+    "Erythromycin 500mg Tablet",
+    "Erythromycin Suspension 250mg/5ml"
+  ],
+  "clarithromycin": [
+    "Clarithromycin 250mg Tablet",
+    "Clarithromycin 500mg Tablet"
+  ],
+  "pantoprazole": [
+    "Pantoprazole 40mg Tablet",
+    "Pantoprazole Injection 40mg"
+  ],
+  "esomeprazole": [
+    "Esomeprazole 20mg Capsule",
+    "Esomeprazole 40mg Capsule",
+    "Esomeprazole Injection 40mg"
+  ],
+  "rabeprazole": [
+    "Rabeprazole 20mg Tablet"
+  ],
+  "famotidine": [
+    "Famotidine 20mg Tablet",
+    "Famotidine 40mg Tablet"
+  ],
+  "domperidone": [
+    "Domperidone 10mg Tablet",
+    "Domperidone Suspension 5mg/5ml"
+  ],
+  "ondansetron": [
+    "Ondansetron 4mg Tablet",
+    "Ondansetron ODT 8mg",
+    "Ondansetron Injection 4mg/2ml"
+  ],
+  "metoclopramide": [
+    "Metoclopramide 10mg Tablet",
+    "Metoclopramide Injection 10mg/2ml"
+  ],
+  "losartan": [
+    "Losartan 25mg Tablet",
+    "Losartan 50mg Tablet",
+    "Losartan 100mg Tablet"
+  ],
+  "amlodipine": [
+    "Amlodipine 5mg Tablet",
+    "Amlodipine 10mg Tablet"
+  ],
+  "valsartan": [
+    "Valsartan 80mg Tablet",
+    "Valsartan 160mg Tablet"
+  ],
+  "telmisartan": [
+    "Telmisartan 40mg Tablet",
+    "Telmisartan 80mg Tablet"
+  ],
+  "olmesartan": [
+    "Olmesartan 20mg Tablet",
+    "Olmesartan 40mg Tablet"
+  ],
+  "bisoprolol": [
+    "Bisoprolol 2.5mg Tablet",
+    "Bisoprolol 5mg Tablet"
+  ],
+  "metoprolol": [
+    "Metoprolol 25mg Tablet",
+    "Metoprolol 50mg Tablet",
+    "Metoprolol ER 100mg Tablet"
+  ],
+  "atenolol": [
+    "Atenolol 50mg Tablet",
+    "Atenolol 100mg Tablet"
+  ],
+  "carvedilol": [
+    "Carvedilol 6.25mg Tablet",
+    "Carvedilol 12.5mg Tablet",
+    "Carvedilol 25mg Tablet"
+  ],
+  "propranolol": [
+    "Propranolol 10mg Tablet",
+    "Propranolol 40mg Tablet"
+  ],
+  "hydrochlorothiazide": [
+    "Hydrochlorothiazide 12.5mg Tablet",
+    "Hydrochlorothiazide 25mg Tablet"
+  ],
+  "furosemide": [
+    "Furosemide 40mg Tablet",
+    "Furosemide Injection 20mg/2ml"
+  ],
+  "spironolactone": [
+    "Spironolactone 25mg Tablet",
+    "Spironolactone 50mg Tablet"
+  ],
+  "atorvastatin": [
+    "Atorvastatin 10mg Tablet",
+    "Atorvastatin 20mg Tablet",
+    "Atorvastatin 40mg Tablet"
+  ],
+  "simvastatin": [
+    "Simvastatin 10mg Tablet",
+    "Simvastatin 20mg Tablet"
+  ],
+  "rosuvastatin": [
+    "Rosuvastatin 10mg Tablet",
+    "Rosuvastatin 20mg Tablet"
+  ],
+  "clopidogrel": [
+    "Clopidogrel 75mg Tablet"
+  ],
+  "aspirin": [
+    "Aspirin 75mg EC Tablet",
+    "Aspirin 81mg Chewable",
+    "Aspirin 325mg Tablet"
+  ],
+  "nitroglycerin": [
+    "Nitroglycerin 0.4mg Sublingual Tablet",
+    "Nitroglycerin 5mg/24hr Patch"
+  ],
+  "isosorbide mononitrate": [
+    "Isosorbide Mononitrate SR 30mg Tablet",
+    "Isosorbide Mononitrate SR 60mg Tablet"
+  ],
+  "warfarin": [
+    "Warfarin 2mg Tablet",
+    "Warfarin 5mg Tablet"
+  ],
+  "rivaroxaban": [
+    "Rivaroxaban 10mg Tablet",
+    "Rivaroxaban 20mg Tablet"
+  ],
+  "apixaban": [
+    "Apixaban 2.5mg Tablet",
+    "Apixaban 5mg Tablet"
+  ],
+  "heparin": [
+    "Heparin Injection 5000 IU/ml"
+  ],
+  "insulin glargine": [
+    "Insulin Glargine 100 IU/ml 3ml Pen",
+    "Insulin Glargine 100 IU/ml 10ml Vial"
+  ],
+  "insulin regular": [
+    "Insulin Regular 100 IU/ml 10ml Vial",
+    "Insulin Regular 100 IU/ml 3ml Pen"
+  ],
+  "glimepiride": [
+    "Glimepiride 1mg Tablet",
+    "Glimepiride 2mg Tablet"
+  ],
+  "gliclazide": [
+    "Gliclazide 80mg Tablet",
+    "Gliclazide MR 60mg Tablet"
+  ],
+  "sitagliptin": [
+    "Sitagliptin 50mg Tablet",
+    "Sitagliptin 100mg Tablet"
+  ],
+  "vildagliptin": [
+    "Vildagliptin 50mg Tablet"
+  ],
+  "linagliptin": [
+    "Linagliptin 5mg Tablet"
+  ],
+  "dapagliflozin": [
+    "Dapagliflozin 5mg Tablet",
+    "Dapagliflozin 10mg Tablet"
+  ],
+  "empagliflozin": [
+    "Empagliflozin 10mg Tablet",
+    "Empagliflozin 25mg Tablet"
+  ],
+  "pioglitazone": [
+    "Pioglitazone 15mg Tablet",
+    "Pioglitazone 30mg Tablet"
+  ],
+  "levothyroxine": [
+    "Levothyroxine 50mcg Tablet",
+    "Levothyroxine 100mcg Tablet"
+  ],
+  "prednisolone": [
+    "Prednisolone 5mg Tablet",
+    "Prednisolone 20mg Tablet",
+    "Prednisolone Syrup 5mg/5ml"
+  ],
+  "dexamethasone": [
+    "Dexamethasone 4mg Tablet",
+    "Dexamethasone Injection 4mg/ml"
+  ],
+  "hydrocortisone": [
+    "Hydrocortisone 10mg Tablet",
+    "Hydrocortisone Injection 100mg Vial",
+    "Hydrocortisone Cream 1%"
+  ],
+  "budesonide": [
+    "Budesonide Inhalation 200mcg",
+    "Budesonide Nebules 0.5mg/2ml"
+  ],
+  "salbutamol": [
+    "Salbutamol Inhaler 100mcg/Dose",
+    "Salbutamol Syrup 2mg/5ml"
+  ],
+  "formoterol": [
+    "Formoterol 12mcg Inhalation Capsule",
+    "Formoterol Inhaler 6mcg/Dose"
+  ],
+  "montelukast": [
+    "Montelukast 5mg Chewable",
+    "Montelukast 10mg Tablet"
+  ],
+  "fexofenadine": [
+    "Fexofenadine 120mg Tablet",
+    "Fexofenadine 180mg Tablet"
+  ],
+  "loratadine": [
+    "Loratadine 10mg Tablet",
+    "Loratadine Syrup 5mg/5ml"
+  ],
+  "levocetirizine": [
+    "Levocetirizine 5mg Tablet",
+    "Levocetirizine Syrup 2.5mg/5ml"
+  ],
+  "chlorpheniramine": [
+    "Chlorpheniramine 4mg Tablet",
+    "Chlorpheniramine Syrup 2mg/5ml"
+  ],
+  "betahistine": [
+    "Betahistine 8mg Tablet",
+    "Betahistine 16mg Tablet"
+  ],
+  "meclizine": [
+    "Meclizine 25mg Tablet"
+  ],
+  "tramadol": [
+    "Tramadol 50mg Capsule",
+    "Tramadol SR 100mg Tablet"
+  ],
+  "morphine": [
+    "Morphine 10mg SR Tablet",
+    "Morphine Injection 10mg/ml"
+  ],
+  "codeine": [
+    "Codeine 30mg Tablet",
+    "Codeine Syrup 10mg/5ml"
+  ],
+  "diclofenac": [
+    "Diclofenac 50mg Tablet",
+    "Diclofenac Gel 1%"
+  ],
+  "naproxen": [
+    "Naproxen 250mg Tablet",
+    "Naproxen 500mg Tablet"
+  ],
+  "ketorolac": [
+    "Ketorolac 10mg Tablet",
+    "Ketorolac Injection 30mg/ml"
+  ],
+  "celecoxib": [
+    "Celecoxib 100mg Capsule",
+    "Celecoxib 200mg Capsule"
+  ],
+  "etoricoxib": [
+    "Etoricoxib 60mg Tablet",
+    "Etoricoxib 90mg Tablet"
+  ],
+  "gabapentin": [
+    "Gabapentin 100mg Capsule",
+    "Gabapentin 300mg Capsule"
+  ],
+  "pregabalin": [
+    "Pregabalin 75mg Capsule",
+    "Pregabalin 150mg Capsule"
+  ],
+  "sertraline": [
+    "Sertraline 50mg Tablet",
+    "Sertraline 100mg Tablet"
+  ],
+  "escitalopram": [
+    "Escitalopram 10mg Tablet",
+    "Escitalopram 20mg Tablet"
+  ],
+  "fluoxetine": [
+    "Fluoxetine 20mg Capsule",
+    "Fluoxetine 40mg Capsule"
+  ],
+  "duloxetine": [
+    "Duloxetine 30mg Capsule",
+    "Duloxetine 60mg Capsule"
+  ],
+  "amitriptyline": [
+    "Amitriptyline 10mg Tablet",
+    "Amitriptyline 25mg Tablet"
+  ],
+  "risperidone": [
+    "Risperidone 1mg Tablet",
+    "Risperidone 2mg Tablet"
+  ],
+  "quetiapine": [
+    "Quetiapine 100mg Tablet",
+    "Quetiapine 200mg Tablet"
+  ],
+  "olanzapine": [
+    "Olanzapine 5mg Tablet",
+    "Olanzapine 10mg Tablet"
+  ],
+  "haloperidol": [
+    "Haloperidol 5mg Tablet",
+    "Haloperidol Injection 5mg/ml"
+  ],
+  "ferrous sulfate": [
+    "Ferrous Sulfate 325mg Tablet",
+    "Ferrous Sulfate Syrup 200mg/5ml"
+  ],
+  "folic acid": [
+    "Folic Acid 1mg Tablet",
+    "Folic Acid 5mg Tablet"
+  ],
+  "cyanocobalamin": [
+    "Cyanocobalamin 500mcg Tablet",
+    "Cyanocobalamin Injection 1000mcg/ml"
+  ],
+  "cholecalciferol": [
+    "Cholecalciferol 1000 IU Capsule",
+    "Cholecalciferol 50000 IU Capsule"
+  ],
+  "calcium carbonate": [
+    "Calcium Carbonate 500mg Tablet",
+    "Calcium Carbonate 500mg Chewable"
+  ]
+}
